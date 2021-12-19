@@ -1,0 +1,9 @@
+raw,clean
+DP03_0052PE,pct_below10k
+DP03_0053PE,pct_10k_14k
+DP03_0054PE,pct_15k_24k
+DP03_0055PE,pct_25k_34k
+DP03_0056PE,pct_35k_49k
+DP03_0092E,medianEarnings
+DP03_0119PE,pct_below_poverty
+GEO_ID,geo_id
